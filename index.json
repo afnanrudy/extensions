@@ -11,8 +11,8 @@
       "US"
     ],
     "icon": "https://releases.moe/favicon.png",
-    "update": "gh:hayase-app/extensions",
-    "code": "gh:hayase-app/extensions/seadex"
+    "update": "gh:Ojas7112008/test",
+    "code": "gh:Ojas7112008/test/seadex"
   },
   {
     "name": "AnimeTosho",
@@ -26,8 +26,8 @@
       "US"
     ],
     "icon": "https://animetosho.org/inc/favicon.ico",
-    "update": "gh:hayase-app/extensions",
-    "code": "gh:hayase-app/extensions/animetosho"
+    "update": "gh:Ojas7112008/test",
+    "code": "gh:Ojas7112008/test/animetosho"
   },
   {
     "name": "AnimeTosho NZB",
@@ -41,8 +41,8 @@
       "US"
     ],
     "icon": "https://animetosho.org/inc/favicon.ico",
-    "update": "gh:hayase-app/extensions",
-    "code": "gh:hayase-app/extensions/animetosho-nzb"
+    "update": "gh:Ojas7112008/test",
+    "code": "gh:Ojas7112008/test/animetosho-nzb"
   },
   {
     "name": "NyaaSi",
@@ -55,7 +55,7 @@
     "languages": [
       "US"
     ],
-    "icon": "https://nyaa.si/static/favicon.png",
+    "icon": "https://avatars.githubusercontent.com/u/28658394?v=4&s=400",
     "update": "gh:Ojas7112008/test",
     "code": "gh:Ojas7112008/test/nyaasi"
   },
